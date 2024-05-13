@@ -1,0 +1,9 @@
+1. npm init -y
+2. npx create-react-app .
+3. npm i express multer nodemon colors dotenv cors
+4. npm i concurrently -d
+5. npm i mongoose
+5. cd(change directory) cd client
+7. mongodb password = Username: abusaiddnj548 password: sharif971
+
+my computer or laptop IP address show in command prompt curl -4 ifconfig.me

@@ -1,0 +1,15 @@
+1. npm init -y
+2. npx create-react-app .
+3. npm i redux react-redux
+4. npm i @redux-devtools/extension
+5. npm i redux-thunk
+6. npm i axios bootstrap sass
+7. npm install react-icons --save
+8. npm i react-router-dom
+9. npm i react-bootstrap
+10. npm install @mui/x-data-grid
+11. npm install @mui/material @emotion/react @emotion/styled
+12. https://mui.com/
+13. https://react-bootstrap.netlify.app/
+14. https://react-icons-v2.vercel.app/
+15. https://www.youtube.com/playlist?list=PLKsG0Tigo54eSrdQpi6dPpIom8Ix72XiW

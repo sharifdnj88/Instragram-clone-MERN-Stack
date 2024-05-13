@@ -1,0 +1,6 @@
+1. npm init -y
+2. npx create-react-app .
+3. npm i express multer nodemon colors dotenv cors
+4. npm i express-async-handler
+5. https://create-react-app.dev/
+6. npm i jsonwebtoken
